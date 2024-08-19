@@ -1,0 +1,16 @@
+{
+    "name": "mmarc/demo",
+    "authors": [
+        {
+            "name": "Marchinka90",
+            "email": "martin_marchev@abv.bg"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
